@@ -1,0 +1,16 @@
+{
+
+	"RegisterUser":	  {      
+								"gender":"Mr.",
+								"firstname":"Fname",
+								"lastname":"Lname",
+								"email":"fname_Lname",
+								"password":"password123",
+								"birthmonth":"10",
+								"birthday":"10",
+								"birthyear":"1990"
+								
+ 							 
+ 							 }
+  
+  }
